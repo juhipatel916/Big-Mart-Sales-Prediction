@@ -1,0 +1,2 @@
+# Big-Mart-Sales-Prediction
+Sales prediction using supervised learning- Decision Tree and Random Forest Algorithms as a part of Data Science course work with data preprossessing using hypothesis generation, data exploration, data cleaning, feature engineering, model creation using skicit learn python’s ML library(non parallel approach) and also using Apache hadoop and Apache Mahout environment(parallel approach) and  measured efficiency in both .
